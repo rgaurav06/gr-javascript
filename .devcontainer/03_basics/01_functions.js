@@ -10,7 +10,7 @@ if(myname===undefined){
 }
 return `${myname} hello`
 }
-console.log(greet("inputname"))
+console.log(greet())
 
 
 function calculateCartPrice(val1, val2, ...num1){
