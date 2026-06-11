@@ -8,7 +8,7 @@ console.log("Hitesh")
 
 
 let name = "hitesh"
-let age = 18
+let age = 65
 let isLoggedIn = false
 let state;
 
@@ -25,3 +25,4 @@ let state;
 
 console.log(typeof undefined); // undefined
 console.log(typeof null); // object
+console.log(age)
