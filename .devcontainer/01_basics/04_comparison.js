@@ -1,9 +1,9 @@
-/*console.log("2"===2);
+console.log("2"===2);
 console.log("2"==2);
-console.log(null>=0);
+// console.log(null>=0);
 
 let user
-console.log(typeof user)*/
+console.log(typeof user)
 
 // heap and stack memory
 
